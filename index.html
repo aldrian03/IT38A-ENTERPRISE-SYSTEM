@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking to the external CSS -->
+</head>
+<body>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <h2 style="text-align:center; color: #ecf0f1;">Dashboard</h2>
+
+        <!-- Hamburger menu icon -->
+        <div class="hamburger" onclick="toggleMenu()">
+            &#9776;
+        </div>
+
+        <!-- Sidebar links (initially hidden) -->
+        <div id="navLinks" class="nav-links">
+            <a href="#">Home</a>
+            <a href="#">Analytics</a>
+            <a href="#">Projects</a>
+            <a href="#">Reports</a>
+            <a href="#">Accounts</a>
+            <a href="#">Users</a>
+            <a href="#">Temp Users</a>
+            <a href="#">Total Users</a>
+        </div>
+    </div>
+
+    <!-- Main content -->
+    <div class="main-content">
+        <div class="header">
+            <h1>Welcome to Your Dashboard</h1>
+        </div>
+
+        <!-- Section 1 -->
+        <div class="section">
+            <h2>Overview</h2>
+            <p>This is an overview of the dashboard with some key statistics.</p>
+        </div>
+
+        <!-- Section 2 -->
+        <div class="section">
+            <h2>Recent Activities</h2>
+            <p>Here you can see recent activities that are happening within your dashboard.</p>
+        </div>
+
+        <!-- Section 3 -->
+        <div class="section">
+            <h2>Notifications</h2>
+            <p>You can check the latest notifications or messages here.</p>
+        </div>
+    </div>
+
+    <script>
+        // JavaScript to toggle the visibility of the navigation links
+        function toggleMenu() {
+            var navLinks = document.getElementById("navLinks");
+            navLinks.classList.toggle("active");
+        }
+    </script>
+
+</body>
+</html>
