@@ -31,8 +31,39 @@ c.4 Outcomes & Consequences
 Levi Strauss lost $192 million in sales due to delayed shipments and system failures. Some operations had to shut down temporarily to fix problems. The company had to spend more money to train employees and repair the system. This failure showed the importance of proper planning, testing, and gradual implementation.
 
 
+d. Comparative analysis: create a table for both case study 1 & 2.
+d.1 Similarities & Differences
 
+| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|                                       Similarities                              |                                           Differences                                                       |
+|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Both companies aimed to improve operations and efficiency through ERP systems.  | Nike used a phased rollout, while Levi Strauss used a "big bang" rollout.                                   |
+| Both implemented SAP ERP to manage inventory, orders, and finances.             | Nike provided strong training, whereas Levi Strauss had poor training.                                      |
+| Both faced challenges with system integration.                                  | Nike conducted thorough testing before launch, while Levi Strauss had limited testing.                      |
+| Both companies experienced operational disruptions.                             | Nike’s system led to improved efficiency, while Levi Strauss lost $192 million due to ERP failures.         |
+| Both companies aimed to streamline supply chain and decision-making processes.  | Nike managed change management effectively, but Levi Strauss struggled with employee adaptation.            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+d.2. Critical Success vs. Failure Factors
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                        Critical Success Factors (Nike, Inc.)                                            |                                Critical Failure Factors(Levi Strauss & Co.)                                   |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Phased Rollout: Nike implemented the ERP system gradually to manage risks and reduce disruptions.                       | "Big Bang" Rollout: Levi Strauss launched the ERP system all at once, leading to major disruptions.           |
+| Thorough Testing: Nike thoroughly tested the system before full deployment, ensuring smoother integration.              | Limited Testing: Levi Strauss had insufficient testing, which led to unexpected system failures.              |
+| Strong Employee Training: Nike invested in employee training to ensure smooth adaptation.                               | Poor Employee Training: Levi Strauss failed to adequately train employees, causing operational difficulties.  |
+| Effective Change Management: Nike implemented strategies to manage employee resistance and ensure smooth transition.    | Poor Change Management: Levi Strauss lacked effective strategies for managing employee resistance.            |
+| System Customization: Nike customized the system to fit business needs and integrate smoothly with existing operations. | Integration Issues: Levi Strauss faced difficulties integrating the ERP system with their existing processes. |
+| Clear Business Objectives: Nike had clear objectives for using the ERP system to improve efficiency.                    | Lack of Clear Objectives: Levi Strauss lacked clear business goals and proper planning for ERP use.           |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
-
+d.3. Key Takeaways & Lessons Learned include the following questions:
+1. What did the successful case do right? 
+  - Nike planned its ERP system carefully. They introduced the system step by step (phased rollout) to reduce risks. They also trained employees well and tested the system before using it fully. Their strong change management helped employees adapt easily.
+2. What went wrong in the failed case?
+  - Levi Strauss launched the system all at once (big bang rollout), which caused major problems. They did not test it properly before launching. Employees were not trained well, so they struggled to use the system. Poor change management made things worse.
+3. How can future implementations avoid similar failures?
+  - Use a phased rollout instead of launching everywhere at once.
+  - Test the system carefully before full deployment.
+  - Provide proper training for employees so they can use the system easily.
+  - Have a change management plan to help employees adapt.
+  - Make sure the system integrates well with existing business processes.
